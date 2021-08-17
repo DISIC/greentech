@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Numérique écoresponsable</title>
-	<subtitle>Mission interministérielle Green Tech pilotée par la DINUM et le Ministère de la Transition écologique</subtitle>
+	<subtitle>Mission interministérielle Green Tech pilotée par la DINUM et le Ministère de la Transition écologique pour réduire les impacts environnementaux du numérique</subtitle>
 	
 	<link href="https://ecoresponsable.numerique.gouv.fr/feed/feed.xml" rel="self"/>
 	<link href="https://ecoresponsable.numerique.gouv.fr/"/>
